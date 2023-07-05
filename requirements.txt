@@ -6,7 +6,7 @@ Cython==0.28.2
 decorator==4.3.0
 entrypoints==0.2.3
 gast==0.2.2
-grpcio==1.19.0
+grpcio==1.53.0
 h5py==2.9.0
 html5lib==1.0.1
 ipykernel==4.8.2
